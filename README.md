@@ -18,6 +18,7 @@ Motor Adjustment: Based on detected and predicted positions, updates pan (x-axis
 Visual Feedback: Displays live video with visual markers for actual and predicted positions, helping ensure smooth tracking and lock-on.
 ### 4. Technology Used
 OpenCV (Haar Cascade): For face recognition and real-time tracking.
+
 Microcontroller Programming: To manage the dual motor setup, processing x and y coordinate inputs to control motor adjustments.
 
 ### 5. Language Used
