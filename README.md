@@ -23,7 +23,8 @@ Microcontroller Programming: To manage the dual motor setup, processing x and y 
 
 ### 5. Language Used
 Python: For implementing face recognition and OpenCV functions.
-e=Embedded C (Arduino IDE): For microcontroller programming and motor control.
+
+Embedded C (Arduino IDE): For microcontroller programming and motor control.
 
 ### 6. Components
 
